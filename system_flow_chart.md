@@ -1,4 +1,10 @@
-# System Flow Chart: Hotel Booking Platform
+# System Flow Chart: Architecture & Tech Interactions
 
-## System Flow Chart: Core Component Interactions
+### Purpose: 
+Show how the tech stack components interact.
 
+
+### Example Elements:
+Frontend (HTML/CSS/JS) → API calls → Backend (Node.js/Express) → Database (PostgreSQL or Firebase) → Image hosting → admin panel interaction
+
+<img src="./System_flow_diagram.png" alt="Hotel Booking Flow Chart" width="400"/>
