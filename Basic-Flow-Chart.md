@@ -1,9 +1,10 @@
-# Hotel Booking Flow Chart
-
-## Basic Flow Chart: Room Inquiry Process
+# Rental Property Booking Flow Chart
+---
+## Basic Flow Chart: Business Inquiry Process
 
 This flow chart visually represents the step-by-step process a user follows to inquire about a hotel room, from landing on the homepage to receiving a confirmation message.
 
+---
 ### Purpose
 Show the step-by-step process a user goes through when making a room inquiry.
 
