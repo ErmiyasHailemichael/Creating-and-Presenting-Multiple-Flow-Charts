@@ -5,7 +5,7 @@ Show simple task distribution across different roles in a process.
 
 ## Example Process: Basic Task Management
 
-<img src="./Swimlanechart.png" alt="Swimlane Chart"/>
+<img src="./charts/Swimlanechart.png" alt="Swimlane Chart"/>
 
 ## Key Responsibilities
 

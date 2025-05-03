@@ -14,9 +14,7 @@ Home page → Browse rooms → View room details → Contact form → Submit inq
 
 ### Visual Flow Chart
 
-<img src="./Basic_diagram.png" alt="Flow Chart" />
-
-*Figure: Visual representation of the hotel room inquiry process.*
+<img src="./charts/Basic_diagram.png" alt="Flow Chart" />
 
 ---
 
@@ -31,6 +29,9 @@ Home page → Browse rooms → View room details → Contact form → Submit inq
 
 ---
 
-### Notes
-- This flow chart provides a high-level overview and can be adapted for more detailed or alternative flows as needed.
+### Explain basic flow chart
+
+This basic flow chart illustrates the website's primary user journey for inquiring about a business room rental. It begins with the user landing on the homepage, browsing available rooms, viewing details of a selected room, filling out an inquiry form, and finally submitting that form to receive a confirmation message. 
+
+I chose the Basic Flow Chart format for this process because it provides a high-level, easy-to-follow visualization of the room inquiry process without technical details. I faced the challenge of using luicd since it was my first time using it. 
 

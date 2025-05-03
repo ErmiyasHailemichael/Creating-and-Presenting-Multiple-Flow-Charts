@@ -7,4 +7,4 @@ Show the project development workflow from initial content to final deployment a
 
 Owner provides room info/photos → Developer designs wireframes → Developer builds frontend → Test → Deploy → Owner reviews/requests edits
 
-<img src="./workflow.png" alt="Work Flow Chart"/>
+<img src="./charts/workflow.png" alt="Work Flow Chart"/>

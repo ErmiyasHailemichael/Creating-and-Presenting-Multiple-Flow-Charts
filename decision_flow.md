@@ -8,4 +8,4 @@ Highlight decisions
 
 “Is room available?” → If yes, show details + booking button.
 
-<img src="./Decisionflowhart.png" alt="system Flow Chart"/>
+<img src="./charts/Decisionflowhart.png" alt="system Flow Chart"/>
