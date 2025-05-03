@@ -14,7 +14,7 @@ Home page → Browse rooms → View room details → Contact form → Submit inq
 
 ### Visual Flow Chart
 
-<img src="./Basic_diagram.png" alt="Hotel Booking Flow Chart" width="400"/>
+<img src="./Basic_diagram.png" alt="Flow Chart" />
 
 *Figure: Visual representation of the hotel room inquiry process.*
 
