@@ -38,7 +38,7 @@ Purpose: Focus on branching logic and how yes/no or other conditional choices le
 
 Example Use: Outline the decision-making process for approving user access, handling errors, or routing tickets in a helpdesk system.
 
-[View Data Flow Chart](data_flow.md)
+[View Decision Flow Chart](decision_flow.md)
 
 ## Swimlane Flow Chart
 
@@ -46,4 +46,4 @@ Purpose: Visualize responsibilities across different individuals, teams, or depa
 
 Example Use: Show how tasks move from one department (e.g., design) to another (e.g., development, QA, management).
 
-[View Data Flow Chart](data_flow.md)
+[View Swimlane Flow Chart](.md)
